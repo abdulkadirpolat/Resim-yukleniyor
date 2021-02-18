@@ -1,2 +1,2 @@
-# Resim-y-kleniyor
+# Resim yükleniyor
 Resim yüklenme efekti
